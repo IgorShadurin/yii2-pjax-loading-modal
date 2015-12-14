@@ -1,0 +1,21 @@
+{
+  "name": "igorshadurin/yii2-pjax-loading-modal",
+  "description": "Show loading modal when Pjax load data",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "extension",
+    "assets",
+    "pjax",
+    "loading",
+    "modal"
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "ishadurin\\pjaxloadingmodal\\": ""
+    }
+  }
+}
